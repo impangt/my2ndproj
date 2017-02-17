@@ -1,1 +1,3 @@
 test for git branch
+
+modified on master branch, which is better?
